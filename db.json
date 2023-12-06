@@ -1,0 +1,164 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Introduction to Next-js  ",
+            "description": "Learn the basics of Next-js (Next-js by Vercel).",
+            "category": "Programming",
+            "like_count": 40,
+            "view_count": 1000
+        },
+        {
+            "id": 2,
+            "title": "Data Science Fundamentals",
+            "description": "Explore the key concepts in data science and analytics.",
+            "category": "Data Science",
+            "like_count": 30,
+            "view_count": 1300
+        },
+        {
+            "id": 3,
+            "title": "Healthy Cooking Tips",
+            "description": "Discover tips and tricks for cooking nutritious and delicious meals.",
+            "category": "Cooking",
+            "like_count": 45,
+            "view_count": 800
+        },
+        {
+            "id": 4,
+            "title": "Web Development with React",
+            "description": "Build modern web applications using the React JavaScript library.",
+            "category": "Web Development",
+            "like_count": 60,
+            "view_count": 1500
+        },
+        {
+            "id": 5,
+            "title": "Artificial Intelligence Overview",
+            "description": "An overview of artificial intelligence and its applications.",
+            "category": "Artificial Intelligence",
+            "like_count": 55,
+            "view_count": 1100
+        },
+        {
+            "id": 6,
+            "title": "Photography Tips for Beginners",
+            "description": "Learn the basics of photography and improve your skills.",
+            "category": "Photography",
+            "like_count": 40,
+            "view_count": 900
+        },
+        {
+            "id": 7,
+            "title": "Mobile App Development with Flutter",
+            "description": "Create cross-platform mobile apps with the Flutter framework.",
+            "category": "Mobile Development",
+            "like_count": 75,
+            "view_count": 2000
+        },
+        {
+            "id": 8,
+            "title": "Financial Planning 101",
+            "description": "Get started with financial planning and managing your money effectively.",
+            "category": "Finance",
+            "like_count": 50,
+            "view_count": 1300
+        },
+        {
+            "id": 9,
+            "title": "Fitness Workouts at Home",
+            "description": "Stay fit with effective home workout routines.",
+            "category": "Fitness",
+            "like_count": 35,
+            "view_count": 950
+        },
+        {
+            "id": 10,
+            "title": "Cybersecurity Essentials",
+            "description": "Understand the basics of cybersecurity and protect your online presence.",
+            "category": "Cybersecurity",
+            "like_count": 70,
+            "view_count": 1800
+        },
+        {
+            "id": 11,
+            "title": "Blockchain Technology Explained",
+            "description": "Explore the fundamentals of blockchain technology and its applications.",
+            "category": "Blockchain",
+            "like_count": 65,
+            "view_count": 1600
+        },
+        {
+            "id": 12,
+            "title": "Gourmet Cooking Techniques",
+            "description": "Master advanced cooking techniques for gourmet dishes.",
+            "category": "Cooking",
+            "like_count": 55,
+            "view_count": 1400
+        },
+        {
+            "id": 13,
+            "title": "Frontend Development with Vue.js",
+            "description": "Build interactive and dynamic user interfaces with Vue.js.",
+            "category": "Web Development",
+            "like_count": 80,
+            "view_count": 2200
+        },
+        {
+            "id": 14,
+            "title": "Understanding Quantum Computing",
+            "description": "An introduction to the principles of quantum computing.",
+            "category": "Quantum Computing",
+            "like_count": 45,
+            "view_count": 1100
+        },
+        {
+            "id": 15,
+            "title": "Yoga and Mindfulness Practices",
+            "description": "Incorporate yoga and mindfulness into your daily routine for better well-being.",
+            "category": "Health",
+            "like_count": 60,
+            "view_count": 1700
+        },
+        {
+            "id": 16,
+            "title": "Game Development with Unity",
+            "description": "Create games with the Unity game development engine.",
+            "category": "Game Development",
+            "like_count": 90,
+            "view_count": 2500
+        },
+        {
+            "id": 17,
+            "title": "Social Media Marketing Strategies",
+            "description": "Develop effective strategies for marketing on social media platforms.",
+            "category": "Marketing",
+            "like_count": 55,
+            "view_count": 1200
+        },
+        {
+            "id": 18,
+            "title": "Effective Time Management",
+            "description": "Learn how to manage your time efficiently for increased productivity.",
+            "category": "Productivity",
+            "like_count": 40,
+            "view_count": 1000
+        },
+        {
+            "id": 19,
+            "title": "Space Exploration: Past, Present, Future",
+            "description": "Explore the history and future of space exploration.",
+            "category": "Space",
+            "like_count": 70,
+            "view_count": 2000
+        },
+        {
+            "id": 20,
+            "title": "Graphic Design Fundamentals",
+            "description": "Learn the basics of graphic design and create visually appealing content.",
+            "category": "Design",
+            "like_count": 50,
+            "view_count": 1300
+        }
+    ]
+}
